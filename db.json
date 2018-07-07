@@ -12,5 +12,6 @@
     { "id": 2, "name": "hanif iam", "age": 40 },
     { "id": 2, "name": "fitriyah azaroh", "age": 30 },
     { "id": 2, "name": "fatimah azaroh", "age": 35 }
-  ]
+  ],
+   "hobby": { "domain": "sport", "value": "football" }
 }
