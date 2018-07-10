@@ -10,7 +10,7 @@
   "profile": [
     { "id": 1, "customer_name": "fachri amrullah", "code": "Code 1", "status" : "Draft" },
     { "id": 2, "customer_name": "fachri amrullah",  "code": "Code 1", "status" : "Cancel" },
-    { "id": 3, "customer_name": "fachri amrullah",  "code": "Code 1", "status" : "Paid" },
+    { "id": 3, "customer_name": "fachri amrullah",  "code": "Code 1", "status" : "Paid" }
   ],
    "hobby": { "domain": "sport", "value": "football" }
 }
