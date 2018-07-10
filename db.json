@@ -8,10 +8,9 @@
     { "id": 2, "body": "some error", "postId": 2 }
   ],
   "profile": [
-    { "id": 1, "name": "fachri amrullah", "age": 15 },
-    { "id": 2, "name": "hanif iam", "age": 40 },
-    { "id": 3, "name": "fitriyah azaroh", "age": 30 },
-    { "id": 4, "name": "fatimah azaroh", "age": 35 }
+    { "id": 1, "customer_name": "fachri amrullah", "code": "Code 1", "status" : "Draft" },
+    { "id": 2, "customer_name": "fachri amrullah",  "code": "Code 1", "status" : "Cancel" },
+    { "id": 3, "customer_name": "fachri amrullah",  "code": "Code 1", "status" : "Cancel" },
   ],
    "hobby": { "domain": "sport", "value": "football" }
 }
